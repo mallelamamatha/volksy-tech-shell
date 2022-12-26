@@ -1,2 +1,2 @@
 #!/bin/bash
-mv [[:upper:]]* /tem/u
+mv [[:A-Z:]]* /tem/u
